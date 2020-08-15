@@ -1,4 +1,4 @@
-rtlwifi_new
+rtlwifi_new (by lwfinger)
 ===========
 ### A repo for the newest Realtek rtlwifi codes.
 
